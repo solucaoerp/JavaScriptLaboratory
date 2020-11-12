@@ -1,6 +1,7 @@
 # JavaScript Laboratory
 
   - Fontes de pesquisa:
+    - Curso em Vídeo: [Clique Aqui](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
     - MDN Web docs (Mozilla):
 	  - Home: [Clique Aqui](https://developer.mozilla.org/pt-BR/)
 	  - HTML: [Clique Aqui](https://developer.mozilla.org/pt-BR/docs/Glossario/HTML) 
