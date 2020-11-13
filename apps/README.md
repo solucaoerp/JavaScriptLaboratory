@@ -16,4 +16,30 @@
 	- Uso do comando **typeof** no JavaScript
 	- Boas práticas para a definição das variáveis
 	- Fonte: [Clique Aqui](https://youtu.be/Vbabsye7mWo?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
-	
+
+# Comentários
+  
+  - Em HTML: ** <!-- isso é um comentário em HTML --> **
+  - Em CSS: ** /* isso é um comentário em CSS */ **  
+  - Em JavaScript
+    - Simples em Linha: **//**
+    - Em Bloco: ** /* */ ** 	
+  
+# Declaração de Variáveis
+
+  - Verificar diferenças entre: **var** e **let** nas declarações de variáveis
+  -   entre ** Explicação sobre a palavra reservada var e let
+
+# Tipos de Dados
+
+# Conversões de Valores Numéricos em Strings para Numéricos:
+
+  - String para Inteiros: **Number.parseInt(n)**
+  - String para Flutuantes: **Number.parseFloat(n)**
+  - String para Números(Inteiros/Flutuantes): **Number(n)**
+    - O próprio compilador decide qual tipo numérico deve usar, conforme os valores informados.
+
+# Conversões de Valores Numéricos em Strings:
+
+  - Número para String: **String(n)**
+  - Número para String: **n.ToString()**
