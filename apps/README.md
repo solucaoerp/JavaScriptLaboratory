@@ -29,23 +29,20 @@
 
   - Verificar diferenças entre: **var** e **let** nas declarações de variáveis
 
-# Tipos de Dados
+# Tipos de Dados e TypeCast
 
-## Conversões de Valores Numéricos em Strings para Numéricos:
+## TypeCast
 
   - String para Inteiros: **Number.parseInt(n)**
   - String para Flutuantes: **Number.parseFloat(n)**
   - String para Números(Inteiros/Flutuantes): **Number(n)**
     - O próprio compilador decide qual tipo numérico deve usar, conforme os valores informados.
-
-## Conversões de Valores Numéricos em Strings:
-
   - Número para String: **String(n)**
   - Número para String: **n.toString()**
 
-## Formatação de Strings
+## Strings
 
-  - Há duas formas:
+  - Formatação de Strings:
     - **Concatenção** usando o símbolo de mais: **+** 
 	- Usando Template Strings: **Placeholder**
       - Entre **Apóstrofe**: ``` ${s} ```
@@ -55,8 +52,8 @@
 			- ${idade}: entra o valor armazenado na variável **idade**
 			- ${nota}: entra o valor armazenado na variável **nota**
   - Tamanho de uma String: **s.length** 	
-  - Conversão de String para MAIÚSCULA: **s.s.toUpperCase()** 	
-  - Conversão de String para minúscula: **s.s.toLowerCase()** 	
+  - Conversão de String para MAIÚSCULA: **s.toUpperCase()** 	
+  - Conversão de String para minúscula: **s.toLowerCase()** 	
 	
 	
 	
