@@ -4,9 +4,9 @@
     - Definição da estrutura base do **HTML**
 	- Definição da estrutura base da chamada ao **JavaScript**
 	- Exemplo de comandos JavaScript:
-	  - window.alert();
-	  - window.confirm();
-	  - window.prompt();
+	  - ```window.alert();```
+	  - ```window.confirm();```
+	  - ```window.prompt();```
 	- Fonte: [Clique Aqui](https://youtu.be/OmmJBfcMJA8?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 	
   - Abordagem do Arquivo: **app02.html**
@@ -28,7 +28,6 @@
 # Declaração de Variáveis
 
   - Verificar diferenças entre: **var** e **let** nas declarações de variáveis
-  -   entre ** Explicação sobre a palavra reservada var e let
 
 # Tipos de Dados
 
