@@ -19,11 +19,11 @@
 
 # Comentários
   
-  - Em HTML: ** <!-- isso é um comentário em HTML --> **
-  - Em CSS: ** /* isso é um comentário em CSS */ **  
+  - Em HTML: **<!-- isso é um comentário em HTML -->**
+  - Em CSS: **/* isso é um comentário em CSS */**  
   - Em JavaScript
     - Simples em Linha: **//**
-    - Em Bloco: ** /* */ ** 	
+    - Em Bloco: **/* */** 	
   
 # Declaração de Variáveis
 
