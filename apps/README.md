@@ -31,14 +31,14 @@
 
 # Tipos de Dados
 
-# Conversões de Valores Numéricos em Strings para Numéricos:
+## Conversões de Valores Numéricos em Strings para Numéricos:
 
   - String para Inteiros: **Number.parseInt(n)**
   - String para Flutuantes: **Number.parseFloat(n)**
   - String para Números(Inteiros/Flutuantes): **Number(n)**
     - O próprio compilador decide qual tipo numérico deve usar, conforme os valores informados.
 
-# Conversões de Valores Numéricos em Strings:
+## Conversões de Valores Numéricos em Strings:
 
   - Número para String: **String(n)**
   - Número para String: **n.ToString()**
