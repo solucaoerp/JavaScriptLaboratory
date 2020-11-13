@@ -46,5 +46,28 @@
 ## Formatação de Strings
 
   - Ver sobre **Placeholder**
-  - Template Strings: ``` ${s} ```
-    - Exemplo: ``` `Eu estou aprendendo ${s}` ```
+  - Template Strings, entre **Apóstrofe**: ``` ${s} ```
+    - Exemplo: ``` `O aluno ${nome} com ${idade} anos, tirou a nota ${nota}` ```
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
