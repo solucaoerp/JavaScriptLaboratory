@@ -66,7 +66,12 @@
   - Conversão de String para MAIÚSCULA: **s.toUpperCase()** 	
   - Conversão de String para minúscula: **s.toLowerCase()** 	
 	
-	
+## Formatação de Números
+
+  - Pontos Flutuantes (Float): ```var n1 = 1543.5```
+    - Duas casas decimais: **n1.toFixed(2)**
+    - Trocar o **Ponto** por **Vírgula**, fica: **n1.toFixed(2).replace('.',',')**
+	- Usando o formato **pt-BR** de formatação de valores: **n1.toLocaleString('pt-BR',{style:'currency', currency: 'BRL'})**
 	
 	
 	
