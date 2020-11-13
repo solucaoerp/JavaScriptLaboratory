@@ -72,6 +72,8 @@
     - Duas casas decimais: **n1.toFixed(2)**
     - Trocar o **Ponto** por **Vírgula**, fica: **n1.toFixed(2).replace('.',',')**
 	- Usando o formato **pt-BR** de formatação de valores: **n1.toLocaleString('pt-BR',{style:'currency', currency: 'BRL'})**
+	- Usando o formato **USD** de formatação de valores: **n1.toLocaleString('USD',{style:'currency', currency: 'USD'})**
+	- Usando o formato **EUR** de formatação de valores: **n1.toLocaleString('EUR',{style:'currency', currency: 'EUR'})**
 	
 	
 	
