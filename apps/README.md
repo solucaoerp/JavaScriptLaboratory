@@ -41,4 +41,10 @@
 ## Conversões de Valores Numéricos em Strings:
 
   - Número para String: **String(n)**
-  - Número para String: **n.ToString()**
+  - Número para String: **n.toString()**
+
+## Formatação de Strings
+
+  - Ver sobre **Placeholder**
+  - Template Strings: ``` ${s} ```
+    - Exemplo: **`Eu estou aprendendo ${s)`**
