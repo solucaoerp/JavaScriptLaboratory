@@ -45,9 +45,11 @@
 
 ## Formatação de Strings
 
-  - Ver sobre **Placeholder**
-  - Template Strings, entre **Apóstrofe**: ``` ${s} ```
-    - Exemplo: ``` `O aluno ${nome} com ${idade} anos, tirou a nota ${nota}` ```
+  - Há duas formas:
+    - **Concatenção** usando o símbolo de mais: **+** 
+	- Usando Template Strings: **Placeholder**
+      - Entre **Apóstrofe**: ``` ${s} ```
+        - Exemplo: ``` `O aluno ${nome} com ${idade} anos, tirou a nota ${nota}` ```
 	
 	
 	
