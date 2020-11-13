@@ -47,4 +47,4 @@
 
   - Ver sobre **Placeholder**
   - Template Strings: ``` ${s} ```
-    - Exemplo: **`Eu estou aprendendo ${s)`**
+    - Exemplo: ``` `Eu estou aprendendo ${s}` ```
