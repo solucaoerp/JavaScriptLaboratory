@@ -13,17 +13,17 @@
     - Definição de **comentários simples**
 	- Definição de **bloco de comentários**
 	- Variáveis de Tipos Primitivos
-	- Uso do comando **typeof** no JavaScript
+	- Uso do comando ```typeof``` no **JavaScript**
 	- Boas práticas para a definição das variáveis
 	- Fonte: [Clique Aqui](https://youtu.be/Vbabsye7mWo?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
 # Comentários
   
-  - Em HTML: **<!-- isso é um comentário em HTML -->**
-  - Em CSS: **/* isso é um comentário em CSS */**  
+  - Em HTML: ```<!-- isso é um comentário em HTML -->```
+  - Em CSS: ```/* isso é um comentário em CSS */```
   - Em JavaScript
-    - Simples em Linha: **//**
-    - Em Bloco: **/* */** 	
+    - Simples em Linha: ```//```
+    - Em Bloco: ```/* */```
   
 # Declaração de Variáveis
 
