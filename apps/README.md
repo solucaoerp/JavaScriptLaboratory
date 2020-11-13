@@ -54,8 +54,9 @@
 		    - ${nome}: entra o valor armazenado na variável **nome**
 			- ${idade}: entra o valor armazenado na variável **idade**
 			- ${nota}: entra o valor armazenado na variável **nota**
-	
-	
+  - Tamanho de uma String: **s.length** 	
+  - Conversão de String para MAIÚSCULA: **s.s.toUpperCase()** 	
+  - Conversão de String para minúscula: **s.s.toLowerCase()** 	
 	
 	
 	
