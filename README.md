@@ -25,13 +25,8 @@
 	- ```window.prompt();```
   - Fonte: [Clique Aqui](https://youtu.be/OmmJBfcMJA8?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 	
-  - Abordagem do Arquivo: **app02.html**
-    - Definição de **comentários simples**
-	- Definição de **bloco de comentários**
-	- Variáveis de Tipos Primitivos
-	- Uso do comando ```typeof``` no **JavaScript**
-	- Boas práticas para a definição das variáveis
-  - Fonte: [Clique Aqui](https://youtu.be/Vbabsye7mWo?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+  - Ver sobre o uso do comando ```typeof``` no **JavaScript**
+  - Boas práticas para a definição das variáveis: [Clique Aqui](https://youtu.be/Vbabsye7mWo?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
 # Comentários
   
