@@ -50,6 +50,10 @@
 	- Usando Template Strings: **Placeholder**
       - Entre **Apóstrofe**: ``` ${s} ```
         - Exemplo: ``` `O aluno ${nome} com ${idade} anos, tirou a nota ${nota}` ```
+		  - Onde:
+		    - ${nome}: entra o valor armazenado na variável **nome**
+			- ${idade}: entra o valor armazenado na variável **idade**
+			- ${nota}: entra o valor armazenado na variável **nota**
 	
 	
 	
