@@ -54,7 +54,17 @@
   - Tamanho de uma String: **s.length** 	
   - Conversão de String para MAIÚSCULA: **s.toUpperCase()** 	
   - Conversão de String para minúscula: **s.toLowerCase()** 	
-	
+
+# Operadores
+
+## Aritméticos
+
+  - Adição: **+**
+  - Subtração: **-**
+  - Multiplicação: : *****
+  - Divisão: **/**
+  - Porcentagem: **%**
+  - 
 	
 	
 	
