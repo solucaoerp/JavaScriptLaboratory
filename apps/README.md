@@ -55,9 +55,9 @@
   - Conversão de String para MAIÚSCULA: **s.toUpperCase()** 	
   - Conversão de String para minúscula: **s.toLowerCase()** 	
 
-# Operadores
+# # Operadores
 
-## Aritméticos
+## # Aritméticos
 
   - Adição: ```+```
   - Subtração: ```-```
