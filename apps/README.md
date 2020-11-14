@@ -63,8 +63,8 @@
   - Subtração: ```-```
   - Multiplicação: ```*```
   - Divisão: ```/```
-  - Porcentagem: ```%```
-  - 
+  - Resto da Divisão Inteira (Símbolo de Porcentagem): ```%```
+  - Potência: ```**``` - Exemplo (5 elevado ao quadrado): ```5²```
 	
 	
 	
