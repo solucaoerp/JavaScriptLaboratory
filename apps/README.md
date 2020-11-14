@@ -59,11 +59,11 @@
 
 ## Aritméticos
 
-  - Adição: **+**
-  - Subtração: **-**
-  - Multiplicação: : *****
-  - Divisão: **/**
-  - Porcentagem: **%**
+  - Adição: ```+```
+  - Subtração: ```-```
+  - Multiplicação: ```*```
+  - Divisão: ```/```
+  - Porcentagem: ```%```
   - 
 	
 	
