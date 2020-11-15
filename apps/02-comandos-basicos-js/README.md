@@ -1,34 +1,3 @@
-# Definição dos Arquivos
-
-  - Abordagem do Arquivo: **app01.html**
-    - Definição da estrutura base do **HTML**
-	- Definição da estrutura base da chamada ao **JavaScript**
-	- Exemplo de comandos JavaScript:
-	  - ```window.alert();```
-	  - ```window.confirm();```
-	  - ```window.prompt();```
-	- Fonte: [Clique Aqui](https://youtu.be/OmmJBfcMJA8?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
-	
-  - Abordagem do Arquivo: **app02.html**
-    - Definição de **comentários simples**
-	- Definição de **bloco de comentários**
-	- Variáveis de Tipos Primitivos
-	- Uso do comando ```typeof``` no **JavaScript**
-	- Boas práticas para a definição das variáveis
-	- Fonte: [Clique Aqui](https://youtu.be/Vbabsye7mWo?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
-
-# Comentários
-  
-  - Em HTML: ```<!-- isso é um comentário em HTML -->```
-  - Em CSS: ```/* isso é um comentário em CSS */```
-  - Em JavaScript
-    - Simples em Linha: ```//```
-    - Em Bloco: ```/* */```
-  
-# Declaração de Variáveis
-
-  - Verificar diferenças entre: **var** e **let** nas declarações de variáveis
-
 # Tipos de Dados e TypeCast
 
 ## TypeCast
@@ -53,7 +22,16 @@
 			- ${nota}: entra o valor armazenado na variável **nota**
   - Tamanho de uma String: **s.length** 	
   - Conversão de String para MAIÚSCULA: **s.toUpperCase()** 	
-  - Conversão de String para minúscula: **s.toLowerCase()** 	
+  - Conversão de String para minúscula: **s.toLowerCase()**
+
+## Formatação de Números
+
+  - Pontos Flutuantes (Float): ```var n1 = 1543.5```
+    - Duas casas decimais: **n1.toFixed(2)**
+    - Trocar o **Ponto** por **Vírgula**, fica: **n1.toFixed(2).replace('.',',')**
+	- Usando o formato **pt-BR** de formatação de valores: **n1.toLocaleString('pt-BR',{style:'currency', currency: 'BRL'})**
+	- Usando o formato **USD** de formatação de valores: **n1.toLocaleString('USD',{style:'currency', currency: 'USD'})**
+	- Usando o formato **EUR** de formatação de valores: **n1.toLocaleString('EUR',{style:'currency', currency: 'EUR'})**
 
 # # Operadores
 
