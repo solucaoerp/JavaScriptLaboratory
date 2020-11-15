@@ -68,9 +68,7 @@
   - **Órdem de Precedência**
     - Parêntese: ```()```
 	- Potência: ```**```
-	- Multiplicação: ```*```
-	- Divisão: ```/```
-	- Resto da Divisão: ```%```
+	- Multiplicação; Divisão; Resto da Divisão: ```* / %```
 	
 	
 	
