@@ -100,6 +100,14 @@
 		- **Exemplo 06:** ```var n = n ** 2``` **simplificando, fica:** ```n **= 2``` (Resultado: **2.5600000...**)
 		- **Exemplo 07:** ```var n = n % 5``` **simplificando, fica:** ```n %= 5``` (Resultado: **2.5600000...**)
   
+  - **Incremento**
+    - **Exemplo 01:** ```var n = 5``` (Resultado: **5**)
+	  - Pós-incremento:
+	    - **Exemplo 02:** ```var n ++```  (Resultado: **6**)
+		- **Exemplo 03:** ```var n --```  (Resultado: **5**)
+	  - Pré-incremento:	
+	    - **Exemplo 04:** ```var ++ n```  (Resultado: **6**)	
+	    - **Exemplo 05:** ```var -- n```  (Resultado: **5**)
 	
 	
 	
