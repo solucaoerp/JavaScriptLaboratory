@@ -58,14 +58,14 @@
 # # Operadores
 
   - **IMPORTANTE 01!** Se houver os três tipos de operadores numa expressão, a análise de precedência ocorre da seguinte forma
-    - 1º Resolve os **Operadores Aritméticos**
-	- 2º Resolve os **Operadores Relacionais**
-	- 3º Resolve os **Operadores Lógicos**
+    - 1º Resolve os ```Operadores Aritméticos```
+	- 2º Resolve os ```Operadores Relacionais```
+	- 3º Resolve os ```Operadores Lógicos```
 	
   - **IMPORTANTE 02!** Se numa expressão houver os operadores ```!```, ```&&``` e ```||```, a análise de precedência ocorre da seguinte forma
-    - 1º Resolve o **!**
-	- 2º Resolve o **&&**
-	- 3º Resolve o **||**
+    - 1º Resolve o ```!```
+	- 2º Resolve o ```&&```
+	- 3º Resolve o ```||```
 
 ## # Aritméticos
 
