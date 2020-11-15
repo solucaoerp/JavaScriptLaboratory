@@ -109,14 +109,16 @@
 	    - **Exemplo 04:** ```var ++ n```  (Resultado: **6**)	
 	    - **Exemplo 05:** ```var -- n```  (Resultado: **5**)
 	
-## # Relacionais
+## # Relacionais 
 
   - **IMPORTANTE!** Para toda operação que tiver um operador relacional ligado a ela, seu resultado será **Booleano** (*True* / *False*).
   - Maior: ```>```
   - Menor: ```<```
   - Maior Igual: ```>=```
   - Menor Igual: ```<=```
-  - Igual: ```==```
+  - Igual (Identidade): ```==```
+    - Exemplo 01: ```5 == 5 (true)``` e ```5 == '5' (true)```
+  - Idêntico: ```===```
   - Diferente: ```!=```
 
 ## # Lógicos
