@@ -57,6 +57,16 @@
 
 # # Operadores
 
+  - **IMPORTANTE 01!** Se houver os três tipos de operadores numa expressão, a análise de precedência ocorre da seguinte forma
+    - 1º Resolve os **Operadores Aritméticos**
+	- 2º Resolve os **Operadores Relacionais**
+	- 3º Resolve os **Operadores Lógicos**
+	
+  - **IMPORTANTE 02!** Se numa expressão houver os operadores ```!```, ```&&``` e ```||```, a análise de precedência ocorre da seguinte forma
+    - 1º Resolve o **!**
+	- 2º Resolve o **&&**
+	- 3º Resolve o **||**
+
 ## # Aritméticos
 
   - Adição: ```+```
@@ -131,7 +141,7 @@
 
   - Negação (análise unária: *true* ou *false*): ```!``` (**NÃO** lógico)
   - Conjunção (análise binária): ```&&``` (**E** lógico) - satisfaz se e somente se, as duas forem verdadeiras
-  - Disjunção: ```||``` (**OU** lógico) - basta que um seja verdadeira, para que o resultado seja verdadeiro
+  - Disjunção (Duplo **Pipe**): ```||``` (**OU** lógico) - basta que um seja verdadeiro, para que o resultado seja verdadeiro
 
 ## # Ternários
 	
