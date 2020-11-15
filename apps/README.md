@@ -153,7 +153,7 @@
 	- 3º vem o **Bloco Falso**
   
   - **teste**```?```**true**```:```**false**
-    - Exemplo 01: **media >= 7.0**```?```**Aprovado**```:```**Reprovado**
+    - Exemplo: **media >= 7.0**```?```**'Aprovado'**```:```**'Reprovado'**
 	
 	
 
