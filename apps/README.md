@@ -117,9 +117,15 @@
   - Maior Igual: ```>=```
   - Menor Igual: ```<=```
   - Igual (Identidade): ```==```
-    - Exemplo 01: ```5 == 5 (true)``` e ```5 == '5' (true)```
-  - Idêntico: ```===```
+    - Exemplo: ```5 == 5 (true)``` e ```5 == '5' (true)``` - leva em conta apenas o **Valor**
+	- **IMPORTANTE!** O sinal de igualdade não testa o Tipo, por isso é (*true*).
+  - Idêntico (Igualdade Restrita): ```===```
+    - Exemplo: ```5 === 5 (true)``` e ```5 === '5' (false)``` - leva em conta o **Valor** e o **Tipo**
+    - **IMPORTANTE!** Considera-se o Valor e o Tipo.
   - Diferente: ```!=```
+    - Exemplo: ```5 != '5' (false)``` - leva em conta apenas o **Valor**	
+  - Desigual restrito: ```!==```  
+    - Exemplo: ```5 !== '5' (true)``` - leva em conta o **Valor** e o **Tipo**
 
 ## # Lógicos
 
