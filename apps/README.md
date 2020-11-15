@@ -58,11 +58,11 @@
 # # Operadores
 
   - **IMPORTANTE 01!** Se houver os três tipos de operadores numa expressão, a análise de precedência ocorre da seguinte forma
-    - 1º Resolve os ```Operadores Aritméticos```
-	- 2º Resolve os ```Operadores Relacionais```
-	- 3º Resolve os ```Operadores Lógicos```
+    - 1º Resolve os ```Operadores Aritméticos``` (**ATENÇÃO** as ordens de precedência aqui)
+	- 2º Resolve os ```Operadores Relacionais``` (não tem ordem de precedência, analisfaz-se da esquerda para a direita)
+	- 3º Resolve os ```Operadores Lógicos``` ((**ATENÇÃO** as ordens de precedência aqui. Explicação abaixo!)
 	
-  - **IMPORTANTE 02!** Se numa expressão houver os operadores ```!```, ```&&``` e ```||```, a análise de precedência ocorre da seguinte forma
+  - **IMPORTANTE 02!** Se numa mesma expressão houver os operadores lógicos ```!```, ```&&``` e ```||```, a análise de precedência ocorre da seguinte forma
     - 1º Resolve o ```!```
 	- 2º Resolve o ```&&```
 	- 3º Resolve o ```||```
@@ -144,8 +144,12 @@
   - Disjunção (Duplo **Pipe**): ```||``` (**OU** lógico) - basta que um seja verdadeiro, para que o resultado seja verdadeiro
 
 ## # Ternários
-	
-	
+  
+  - Símbolo de Interrogação: ```?```
+  - Símbolo Dois pontos: ```:```
+  - Chama-se ternário porque possui três partes
+    - **teste**```?```**true**```:```**false**
+
 	
 	
 	
