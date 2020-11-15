@@ -1,6 +1,6 @@
-# JavaScript Laboratory
+# # JavaScript Laboratory
 
-## Fontes de Pesquisa e Estudos
+## # Fontes de Pesquisa e Estudos
   
   - Curso em Vídeo: [Veja Aqui](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
   - MDN Web docs (Mozilla):
@@ -15,7 +15,7 @@
 	  - 5.1: [Veja Aqui](http://ecma-international.org/ecma-262/5.1/index.html)
 	  - 6th: [Veja Aqui](http://ecma-international.org/ecma-262/6.0/index.html)
 
-## Material Recomendado
+## # Material Recomendado
 
   - Livros:
     - JavaScript: O Guia Definitivo (Autor: David Flanagem): [Veja Aqui](https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/856583719X/ref=sr_1_1?adgrpid=1136895682082976&dchild=1&hvadid=71056066549249&hvbmt=be&hvdev=c&hvlocphy=668&hvnetw=s&hvqmt=e&hvtargid=kwd-71056498082298%3Aloc-20&hydadcr=5657_11235229&keywords=javascript+guia+definitivo&qid=1605209043&sr=8-1&tag=msndesktopsta-20)
