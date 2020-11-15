@@ -132,19 +132,3 @@
   
   - **teste**```?```**true**```:```**false**
     - Exemplo: **media >= 7.0**```?```**'Aprovado'**```:```**'Reprovado'**
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
