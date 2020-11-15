@@ -74,21 +74,21 @@
 ## # Atribuição
 
   - **Simples**
-    - Exemplo 01: ```var a = 5 + 3```         (Resultado: 8)
-	- Exemplo 02: ```var b = a % 3```         (Resultado: 3)
-	- Exemplo 03: ```var c = 5 * b ** 2```    (Resultado: 45)
-	- Exemplo 04: ```var d = 10 - a / 2```    (Resultado: 6)
-	- Exemplo 05: ```var e = 6 * 2 / b```     (Resultado: 2)
-	- Exemplo 06: ```var f = b % e + 4 / e``` (Resultado: 3)
+    - **Exemplo 01:** ```var a = 5 + 3```         (Resultado: **8**)
+	- **Exemplo 02:** ```var b = a % 3```         (Resultado: **3**)
+	- **Exemplo 03:** ```var c = 5 * b ** 2```    (Resultado: **45**)
+	- **Exemplo 04:** ```var d = 10 - a / 2```    (Resultado: **6**)
+	- **Exemplo 05:** ```var e = 6 * 2 / b```     (Resultado: **2**)
+	- **Exemplo 06:** ```var f = b % e + 4 / e``` (Resultado: **3**)
 	
   - **Auto-atribuições**
-    - **Exemplo 01:** ```var n = 3```  (Resultado: 3)
-	- **Exemplo 02:** ```n = n + 4```  (Resultado: 7)
-	- **Exemplo 03:** ```n = n - 5```  (Resultado: 2)
-	- **Exemplo 04:** ```n = n * 4```  (Resultado: 8)
-	- **Exemplo 05:** ```n = n / 2```  (Resultado: 4)
-	- **Exemplo 06:** ```n = n ** 2``` (Resultado: 16)
-	- **Exemplo 07:** ```n = n % 5```  (Resultado: 1)
+    - **Exemplo 01:** ```var n = 3```  (Resultado: **3**)
+	- **Exemplo 02:** ```n = n + 4```  (Resultado: **7**)
+	- **Exemplo 03:** ```n = n - 5```  (Resultado: **2**)
+	- **Exemplo 04:** ```n = n * 4```  (Resultado: **8**)
+	- **Exemplo 05:** ```n = n / 2```  (Resultado: **4**)
+	- **Exemplo 06:** ```n = n ** 2``` (Resultado: **16**)
+	- **Exemplo 07:** ```n = n % 5```  (Resultado: **1**)
       - **Simplificando**
         - **Exemplo 01:** ```var n = 3```
 		- **Exemplo 02:** ```var n = n + 4``` **simplificando, fica:** ```n += 4``` (Resultado: **7**)
