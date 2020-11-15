@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            font:normal 14pt Arial;
+        }
+    </style>
+</head>
+<body>
+    
+    <script>
+        var n1 = 1545.3;
+        var nome = window.prompt("Qual é seu nome?");
+        document.write(`O nome [ <strong>${nome}</strong> ] tem [ <strong>${nome.length}</strong> ] letras.<br/>`)
+        document.write(`Seu nome em MAIÚSCULO, fica [ <strong>${nome.toUpperCase()}</strong> ].<br/>`)
+        document.write(`Seu nome em minúsculo, fica [ <strong>${nome.toLowerCase()}</strong> ].<br/>`)
+        document.write(`O valor da variável [ <strong> ${n1} </strong> ] com duas casas decimais, fica: [ <strong>${n1.toFixed(2)}</strong> ] <br/>`);
+        document.write(`Trocar o <strong>Ponto</strong> por <strong>Vírgula</strong> da variável [ <strong> ${n1} </strong> ], fica: [ <strong>${n1.toFixed(2).replace('.',',')}</strong> ]<br/>`);
+        document.write(`Usando a formatação Brasil [ <strong> ${n1.toLocaleString('pt-BR',{style:'currency', currency: 'BRL'})} </strong> ]<br/>`);
+        document.write(`Usando a formatação USA [ <strong> ${n1.toLocaleString('USD',{style:'currency', currency: 'USD'}).replace(',','.')} </strong> ]<br/>`);
+        document.write(`Usando a formatação EURO [ <strong> ${n1.toLocaleString('EUR',{style:'currency', currency: 'EUR'}).replace(',','.')} </strong> ]<br/>`);
+    </script>
+</body>
+</html>
