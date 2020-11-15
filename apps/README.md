@@ -129,10 +129,9 @@
 
 ## # Lógicos
 
-  - Negação: ```!``` (**NÃO** lógico)
-  - Conjunção: ```&&``` (**E** lógico)
-  - Disjunção: ```||``` (**OU** lógico)
-
+  - Negação (análise unária: *true* ou *false*): ```!``` (**NÃO** lógico)
+  - Conjunção (análise binária): ```&&``` (**E** lógico) - satisfaz se e somente se, as duas forem verdadeiras
+  - Disjunção: ```||``` (**OU** lógico) - basta que um seja verdadeira, para que o resultado seja verdadeiro
 
 ## # Ternários
 	
