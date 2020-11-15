@@ -7,6 +7,9 @@
 
 # # Entendendo o DOM (Document Object Model)
 
+  - O DOM é formado por elementos diversos
+    - **Elemento:** É todo e qualquer componente que aparecer dentro da arvore DOM, conforme exemplo mostrado a abaixo
+
 ## # Árvore DOM
 
   - Principais componentes:
@@ -22,9 +25,19 @@
 		    - ```<h1>```
 			- ```<p>```
 			- ```<p>```
+			  - ```<strong>```
 			- ```<div>```
 			- etc...
 	  - *history*: armazena o histórico de onde você veio, para onde você vai (facilitando a navegação dentro do site)
 
-## # Manipulando DOM
+## # Manipulando / Navegando pelo DOM
+
+  - Tipos de Navegação
+    - por **Marca**
+	- por **ID**
+	- por **Nome**
+	- por **Classe**
+	- por **Selector**
+
+ 
 

@@ -14,7 +14,21 @@
 </head>
 <body>
     <h1>Iniciando os estudos com DOM</h1>
-    <p>Aqui vai o resultado!</p>
+    <p>Aqui vai o resultado</p>
+    <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript</p>
+    <div>Clique em mim</div>    
+    <script>
+        //Exemplo: window.document.body
 
+        window.document.write('<p>');
+        window.document.write('Olá DOM!<br/>');
+
+        // buscando informações dentro do document (DOM)
+        window.document.write(window.document.charset + '<br/>');
+        window.document.write('Location: ' + window.document.location + '<br/>');
+        window.document.write('URL: ' + window.document.URL + '<br/>');
+        window.document.write('AppName: ' + window.navigator.appName + '<br/>');
+        
+    </script>
 </body>
 </html>
