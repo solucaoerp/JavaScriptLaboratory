@@ -151,8 +151,9 @@
     - 1º vem o **Bloco de Teste**
 	- 2º vem o **Bloco Verdadeiro**
 	- 3º vem o **Bloco Falso**
-	- **teste**```?```**true**```:```**false**
-	- Exemplo 01: **media >= 7.0**```?```**Aprovado**```:```**Reprovado**
+  
+  - **teste**```?```**true**```:```**false**
+    - Exemplo 01: **media >= 7.0**```?```**Aprovado**```:```**Reprovado**
 	
 	
 
