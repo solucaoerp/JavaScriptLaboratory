@@ -147,8 +147,14 @@
   
   - Símbolo de Interrogação: ```?```
   - Símbolo Dois pontos: ```:```
-  - Chama-se ternário porque possui três partes
-    - **teste**```?```**true**```:```**false**
+  - Chama-se ternário porque possui três partes (junta três operandos)
+    - 1º vem o **Bloco de Teste**
+	- 2º vem o **Bloco Verdadeiro**
+	- 3º vem o **Bloco Falso**
+	- **teste**```?```**true**```:```**false**
+	- Exemplo 01: **media >= 7.0**```?```**Aprovado**```:```**Reprovado**
+	
+	
 
 	
 	
