@@ -92,7 +92,7 @@
       - **Simplificando**
         - Exemplo 01: ```var n = 3```
 		- Exemplo 02: ```var n = n + 4``` **simplificando, fica: ** ```n += 4``` (Resultado: 7)
-		  - **ATENÇÃO! ** Só funciona, se a mesma variável receber ela mesmo + o restante da operação!
+		  - **ATENÇÃO!** Só funciona, se a mesma variável receber ela mesmo + o restante da operação!
 		- Exemplo 03: ```var n = n - 5``` **simplificando, fica: ** ```n -= 5``` (Resultado: 2)
 		- Exemplo 04: ```var n = n * 4``` **simplificando, fica: ** ```n *= 4``` (Resultado: 8)
 		- Exemplo 05: ```var n = n / 2``` **simplificando, fica: ** ```n /= 5``` (Resultado: 1.6)
