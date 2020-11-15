@@ -32,7 +32,7 @@
 
 ## # Manipulando / Navegando pelo DOM
 
-  - Tipos de Navegação (**Selecionando**)
+  - Tipos de Navegação (**Selecionando**) - 5 métodos de acesso, são eles:
     - por **Marca**
 	- por **ID**
 	- por **Nome**
