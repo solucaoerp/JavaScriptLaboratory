@@ -21,8 +21,4 @@
   
 # Variáveis em JavaScript
 
-  - Ver diferenças entre **var** e **let**
-
-# Declaração de Variáveis
-
   - Verificar diferenças entre: **var** e **let** nas declarações de variáveis
