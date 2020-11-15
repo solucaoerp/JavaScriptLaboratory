@@ -129,6 +129,10 @@
 
 ## # Lógicos
 
+  - Negação: ```!``` (**NÃO** lógico)
+  - Conjunção: ```&&``` (**E** lógico)
+  - Disjunção: ```||``` (**OU** lógico)
+
 
 ## # Ternários
 	
