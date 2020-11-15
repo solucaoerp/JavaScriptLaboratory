@@ -32,7 +32,7 @@
 
 ## # Manipulando / Navegando pelo DOM
 
-  - Tipos de Navegação
+  - Tipos de Navegação (**Selecionando**)
     - por **Marca**
 	- por **ID**
 	- por **Nome**
