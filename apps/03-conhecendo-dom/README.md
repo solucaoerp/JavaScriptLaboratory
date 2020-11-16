@@ -44,5 +44,32 @@
 	- por **Selector**
 	  - ```querySelector()```
 
- 
+## # Eventos DOM
+  
+  - É tudo que pode acontecer com a **div** (Exemplo: **Eventos de Mouse**)
+    - *click*
+	- *mouseenter*
+	- *mouseout*
+	- *mousemove*
+	- *mousedown*
+	- *mouseup*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
