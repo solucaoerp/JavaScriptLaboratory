@@ -33,15 +33,15 @@
 ## # Manipulando / Navegando pelo DOM
 
   - Tipos de Navegação (**Selecionando**) - 5 métodos de acesso, são eles:
-    - por **Marca**: TAGs
+    - por **Marca**
 	  - ```getElementsByTagName()```
-	- por **ID**: se houver uma propriedade ID para acessar
+	- por **ID**
 	  - ```getElementById()```
-	- por **Nome**: se houver uma propriedade Name para acessar
+	- por **Nome**
 	  - ```getElementsByName()```
 	- por **Classe**
 	  - ```getElementsByClassName()```
-	- por **Selector**: CSS
+	- por **Selector**
 	  - ```querySelector()```
 
  
