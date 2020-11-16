@@ -53,6 +53,9 @@
 	- *mousemove*
 	- *mousedown*
 	- *mouseup*
+  
+  - Fontes: [Clique Aqui](https://developer.mozilla.org/pt-BR/docs/Web/Events)  
+	
 
 
 
