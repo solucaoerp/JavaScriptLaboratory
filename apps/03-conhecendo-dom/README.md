@@ -62,7 +62,7 @@
 
   - Clique com o **botão direito do mouse** sobre a página, e depois clique em **Inspecionar**
 
-## # Recuperando Valores de Inputs (Text/Button)
+## # Capturando Valores dos Inputs (Text e Button)
 
   - Fontes
     - Aquivo HTML: ```03-conhecendo-dom\app04.html```
