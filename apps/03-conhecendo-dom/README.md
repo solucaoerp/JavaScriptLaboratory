@@ -56,7 +56,7 @@
   
   - Fontes e Exemplos
     - Link: [Clique Aqui](https://developer.mozilla.org/pt-BR/docs/Web/Events)
-	- Aquivo HTML: ```03-conhecendo-dom\app03.html```
+	- Aquivo HTML: ```\03-conhecendo-dom\app03.html```
 	
 ## # Identificando Erros no JavaScript
 
@@ -65,7 +65,7 @@
 ## # Capturando Valores dos Inputs (Text e Button)
 
   - Fontes
-    - Aquivo HTML: ```03-conhecendo-dom\app04.html```
+    - Aquivo HTML: ```\03-conhecendo-dom\app04.html```
   
 
 
