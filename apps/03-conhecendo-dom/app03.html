@@ -20,10 +20,30 @@
 <body>
     <h1>Treinamento Eventos em JavaScript</h1>
     <div id='area'>
-        Interaja
+        Interaja.
     </div>    
 
     <script>
+        var area = window.document.getElementById('area')
+
+        area.addEventListener('click', Clicar)
+        area.addEventListener('mouseenter', Entrar)
+        area.addEventListener('mouseout', Sair)
+
+        function Clicar(){            
+            area.innerText = 'Clicou!'
+            area.style.background = 'black'
+            area.style.color = 'write'
+        }
+
+        function Entrar(){
+            area.innerText = 'Entrou!'
+        }
+
+        function Sair(){
+            area.innerText = 'Saiu!'
+            area.style.background = 'green'
+        }
 
     </script>    
 </body>

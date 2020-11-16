@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somando Números</title>
+    <style>
+        body{
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        input{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            width: 100px;
+        }
+        div#res{
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Somando Números</h1>
+    Valor 1 <input type="number" name="txtn1" id="txtn1"> + 
+    Valor 2 <input type="number" name="txtn2" id="txtn2">
+    <input type="button" value="somar" onclick="Somar()">
+
+    <div id="res">Resultado</div>
+    
+    <script>
+        function Somar(){
+            var tn1 = window.document.getElementById('txtn1')      // string - captura de valor via getElementById
+            var tn2 = window.document.querySelector('input#txtn2') // string - captura de valor via querySelector
+            var res = window.document.getElementById('res')        // para exibir o resultado no navegador
+
+            var n1 = Number(tn1.value) // typecast String para Numeros (Inteiros ou Float)
+            var n2 = Number(tn2.value) // typecast String para Numeros (Inteiros ou Float)
+            var resultado = n1 + n2
+
+            res.innerHTML = `Soma de valores [${n1}] + [${n2}] = [<strong>${resultado}</strong>]`
+        }
+    </script>
+</body>
+</html>

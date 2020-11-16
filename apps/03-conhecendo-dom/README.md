@@ -54,9 +54,13 @@
 	- *mousedown*
 	- *mouseup*
   
-  - Fontes: [Clique Aqui](https://developer.mozilla.org/pt-BR/docs/Web/Events)  
+  - Fontes e Exemplos
+    - Link: [Clique Aqui](https://developer.mozilla.org/pt-BR/docs/Web/Events)
+	- Aquivo HTML: ```03-conhecendo-dom\app03.html```
 	
+## # Capturando um Erro no JavaScript
 
+  - Clique com o **botão direito do mouse** sobre a página, e depois clique em **Inspecionar**
 
 
 
