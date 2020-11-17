@@ -27,7 +27,7 @@
 
 ## # Visual Studio Code (Plugins Recomendados)
 
-  - Node.js Exec: Habilita a tecla **F8** para executar os programas ```*.js```
+  - **Node.js Exec**: Habilita a tecla **F8** para executar os programas ```*.js```
 	
 	
 	
