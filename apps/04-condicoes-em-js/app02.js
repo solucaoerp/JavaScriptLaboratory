@@ -1,6 +1,5 @@
 //var pais = 'Brasil'
 var pais = 'EUA'
-
 //console.log(`Vivendo em [${pais}]!`)
 
 /*
