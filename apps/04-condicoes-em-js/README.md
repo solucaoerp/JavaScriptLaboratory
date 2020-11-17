@@ -18,10 +18,10 @@ if (condicao){
 ```
 if (condicao){
   (bloco de comandos)...
-  executa-se esse (bloco de comandos), se o resultado da condição for Verdadeira(True)
+  executa-se esse (bloco de comandos), se o resultado da condição for **Verdadeira(True)**
 }else{
   (bloco de comandos)...
-  executa-se esse (bloco de comandos), se o resultado da condição for Falsa(False)
+  executa-se esse (bloco de comandos), se o resultado da condição for **Falsa(False)**
 }
 ```
 
