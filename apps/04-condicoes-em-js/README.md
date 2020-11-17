@@ -34,11 +34,9 @@ if (condicao){
 if (condicao01){
   (bloco de comandos da condicao01)...
   executa-se esse (bloco de comandos), se o resultado da condição for Verdadeira(True)
-}else{
-	
-	if (condicao02){
-	  (bloco de comandos da condicao02)...
-	  executa-se esse (bloco de comandos), se o resultado da condicao02 for Verdadeira(True)
+}else if (condicao02){
+		(bloco de comandos da condicao02)...
+		executa-se esse (bloco de comandos), se o resultado da condicao02 for Verdadeira(True)
 	}else{
 	  (bloco de comandos)...
       executa-se esse (bloco de comandos), se o resultado da condicao02 for Falsa(False)
@@ -47,3 +45,17 @@ if (condicao01){
 ```
 
 ## # Condições Múltiplas
+
+```
+switch (expressão){
+	case valor01:
+	
+	case valor02:
+	
+	case valor03:
+	
+	case valor04:
+	
+	default:
+}
+```
