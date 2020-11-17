@@ -15,6 +15,7 @@ if (condicao){
 ## # Condições Compostas
 
   - No exemplo abaixo, executa-se um dos fluxos (o **True** ou o **False**)
+
 ```
 if (condicao){
   (bloco de comandos)...
@@ -27,5 +28,22 @@ if (condicao){
 
 ## # Condições Aninhadas
 
+  - No exemplo abaixo, executa-se um dos fluxos (o **True** ou o **False**)
+
+```
+if (condicao01){
+  (bloco de comandos da condicao01)...
+  executa-se esse (bloco de comandos), se o resultado da condição for Verdadeira(True)
+}else{
+	
+	if (condicao02){
+	  (bloco de comandos da condicao02)...
+	  executa-se esse (bloco de comandos), se o resultado da condicao02 for Verdadeira(True)
+	}else{
+	  (bloco de comandos)...
+      executa-se esse (bloco de comandos), se o resultado da condicao02 for Falsa(False)
+	}
+}
+```
 
 ## # Condições Múltiplas
