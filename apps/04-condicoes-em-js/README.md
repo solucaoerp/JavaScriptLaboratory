@@ -46,6 +46,8 @@ if (condicao01){
 
 ## # Condições Múltiplas
 
+  - Testa dados pontuais
+
 ```
 switch (expressão){
 	case valor01:
