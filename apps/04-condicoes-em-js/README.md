@@ -7,7 +7,8 @@
   - No exemplo abaixo, o fluxo só será executado, se a condição for **Verdadeira (True)**
 ```
 if (condicao){
-  Comandos se a confição for (True)
+  comandos...
+  executa-se esses comandos, se o resultado da condição for Verdadeira(True)
 }
 ```
 
@@ -16,9 +17,11 @@ if (condicao){
   - No exemplo abaixo, executa-se um fluxo ou o outro
 ```
 if (condicao){
-  Comandos se a confição for (True)
+  comandos...
+  executa-se esses comandos, se o resultado da condição for Verdadeira(True)
 }else{
-  Comandos se a confição for (False)
+  comandos...
+  executa-se esses comandos, se o resultado da condição for Falsa(False)
 }
 ```
 
