@@ -14,7 +14,7 @@ if (condicao){
 
 ## # Condições Compostas
 
-  - No exemplo abaixo, executa-se um fluxo ou o outro
+  - No exemplo abaixo, executa-se um dos fluxos (o **True** ou o **False**)
 ```
 if (condicao){
   comandos...
