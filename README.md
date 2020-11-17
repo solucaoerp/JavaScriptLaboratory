@@ -28,6 +28,11 @@
 ## # Visual Studio Code (Plugins Recomendados)
 
   - **Node.js Exec**: Habilita a tecla **F8** para executar os programas ```*.js```
+  - **Live Server Preview** (negokaz): Navegador embutido no VSCode
+    - Pressione **F1** e escreva **Show Live Server Preview**
+  - **Live Server** (Ritwick Dey): Navegador embutido no VSCode
+    - Chamado: ```Shift + Ctrl + P``` e informe **Show Live Server Preview**
+  - **Save Typing** (Michel Betancourt): Salava qualquer alteração realização no código, de forma automática
 	
 	
 	
