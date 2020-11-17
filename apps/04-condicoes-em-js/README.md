@@ -6,9 +6,9 @@
 
   - No exemplo abaixo, o fluxo só será executado, se a condição for **Verdadeira (True)**
 ```
-	if (condicao){
-		Comandos se a confição for (True)
-	}
+if (condicao){
+	Comandos se a confição for (True)
+}
 ```
 
 ## # Condições Compostas
