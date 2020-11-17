@@ -7,12 +7,20 @@
   - No exemplo abaixo, o fluxo só será executado, se a condição for **Verdadeira (True)**
 ```
 if (condicao){
-	Comandos se a confição for (True)
+  Comandos se a confição for (True)
 }
 ```
 
 ## # Condições Compostas
 
+  - No exemplo abaixo, executa-se um fluxo ou o outro
+```
+if (condicao){
+  Comandos se a confição for (True)
+}else{
+  Comandos se a confição for (False)
+}
+```
 
 ## # Condições Aninhadas
 
