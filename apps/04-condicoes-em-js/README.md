@@ -50,12 +50,18 @@ if (condicao01){
 switch (expressão){
 	case valor01:
 	
+		break
 	case valor02:
 	
+		break
 	case valor03:
 	
+		break
 	case valor04:
 	
+		break
 	default:
+	
+		break (opcional)
 }
 ```
