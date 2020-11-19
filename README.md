@@ -24,6 +24,8 @@
 ## # Ferramentas Recomendadas
 
   - Visual Studio Code "VSCode" (IDE): [Clique Aqui](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
+  - Pexels (banco de imagens gratuitas): [Clique Aqui](https://www.pexels.com/pt-br/)
+  - Editor de imagens online: [Clique Aqui](https://www.fotor.com/pt/)
 
 ## # Visual Studio Code (Plugins Recomendados)
 
