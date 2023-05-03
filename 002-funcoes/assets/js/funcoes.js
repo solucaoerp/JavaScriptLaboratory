@@ -1,7 +1,3 @@
-console.log("------------------------");
-console.log("Trabalhando com Funções");
-console.log("------------------------");
-
 /* função simples */
 function MinhaFuncao() {
     console.log("Executando MinhaFuncao");

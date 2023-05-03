@@ -1,6 +1,6 @@
 # Treino JavaScript
 
-### Conceitos | file: 001-conceitos-basicos\assets\js\01_primeiros_passos.js
+### Conceitos | file: 001-conceitos\assets\js\conceitos.js
 
 - Variáveis (let, const, var)
 - Operações com variáveis
@@ -12,7 +12,7 @@
 - Condicional Ternário
 - Switch
 
-### Funções | file: 001-conceitos-basicos\assets\js\02_funcoes.js
+### Funções | file: 002-funcoes\assets\js\funcoes.js
 
 - Assinatura, Declaração
 - Uso
@@ -22,6 +22,9 @@
 - Arrow Function
 - Variáveis no escopo da função
 - Funções dentro de Funções
+
+### Funções | file: 003-arrays\assets\js\arrays.js
+
 - Array
 - Array (operações)
 - Objetos
