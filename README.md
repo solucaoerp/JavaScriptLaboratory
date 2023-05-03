@@ -1,6 +1,6 @@
 # Treino JavaScript
 
-## Conceitos Básicos
+### Conceitos | file: 001-conceitos-basicos\assets\js\01_primeiros_passos.js
 
 - Variáveis (let, const, var)
 - Operações com variáveis
@@ -12,17 +12,37 @@
 - Condicional Ternário
 - Switch
 
-## Eventos e manipulação de DOM
+### Funções | file: 001-conceitos-basicos\assets\js\02_funcoes.js
 
-## Orientação à Objetos (POO com JavaScript)
+- Assinatura, Declaração
+- Uso
+- Passagem de Parâmetros
+- Retornos
+- Retornos condicionais
+- Arrow Function
+- Variáveis no escopo da função
+- Funções dentro de Funções
+- Array
+- Array (operações)
+- Objetos
+- Loop for
+- Loop em Array
+- Loop while
+- Funções de Array
+- Ordenação de Array
+- Iteração de Array
 
-## DOM
+### Eventos e manipulação de DOM
 
-## Manipuladores, Arrow, Ajax, e outros
+### Orientação à Objetos (POO com JavaScript)
 
-## Requisições e Assincronismos
+### DOM
 
-## Validações
+### Manipuladores, Arrow, Ajax, e outros
+
+### Requisições e Assincronismos
+
+### Validações
 
 
 
