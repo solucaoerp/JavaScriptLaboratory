@@ -27,6 +27,9 @@
 
 - Array
 - Array (operações)
+
+### Funções | file: 004-objetos\assets\js\
+
 - Objetos
 - Loop for
 - Loop em Array
